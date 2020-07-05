@@ -3,3 +3,4 @@
 .ipynb_checkpoints/*.ipynb
 .vscode/settings.json
 Untitled*.ipynb
+DataSets/alice_best_weights.hdf5
